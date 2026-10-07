@@ -1,0 +1,2 @@
+[console_scripts]
+netscope = backend.cli:main

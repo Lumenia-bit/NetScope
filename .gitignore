@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+data/netscope.db
+data/netscope.db-*
+.pnpm-store/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+.idea/
+.vscode/
+.DS_Store
